@@ -7,5 +7,8 @@ The aim of this project is to help identify whether a specific flower is toxic o
 3. **Model Building**: We built a CNN model using Keras, which is a high-level neural networks API. The model was built using MaxPooling, Dense, and Flatten layers. The model was compiled using binary cross-entropy as the loss function and Adam as the optimizer. We also specified accuracy as the metric to evaluate the performance of the model.
 4. **Model Training**: The model was then trained using the training set. We set the number of epochs to 50, batch size to 10 and, the steps per epoch to 12. We used the validation set to evaluate the model's performance after each epoch.
 5. **Model Evaluation**: After training, we evaluated the performance of the model using the test set. We calculated the accuracy, loss, confusion matrix, support, precision, recall, and F1-score to determine the model's performance.
-## 
+## Model Architecture
+  ![image](https://user-images.githubusercontent.com/48169929/226818748-72bc7f78-aa19-4329-8ceb-0ee35542b0a6.png)
+
+
 
