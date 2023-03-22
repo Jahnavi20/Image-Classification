@@ -9,6 +9,11 @@ The aim of this project is to help identify whether a specific flower is toxic o
 5. **Model Evaluation**: After training, we evaluated the performance of the model using the test set. We calculated the accuracy, loss, confusion matrix, support, precision, recall, and F1-score to determine the model's performance.
 ## Model Architecture
   ![image](https://user-images.githubusercontent.com/48169929/226818748-72bc7f78-aa19-4329-8ceb-0ee35542b0a6.png)
+## Model Evaluation
+### Validation Set
+  ![image](https://user-images.githubusercontent.com/48169929/226819192-49377ccc-20dd-4486-9bb9-bfd1fca85695.png)
+### Test Set
+  ![image](https://user-images.githubusercontent.com/48169929/226819276-04085b82-1f77-403f-beee-50819730ec01.png)
 
 
 
