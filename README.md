@@ -14,6 +14,7 @@ The aim of this project is to help identify whether a specific flower is toxic o
   ![image](https://user-images.githubusercontent.com/48169929/226819192-49377ccc-20dd-4486-9bb9-bfd1fca85695.png)
 ### Test Set
   ![image](https://user-images.githubusercontent.com/48169929/226819276-04085b82-1f77-403f-beee-50819730ec01.png)
-
+## Conclusion
+The initial model was fitted without data augmentation, resulting in an accuracy score of 0.75. Later, data augmentation was attempted by adding new arguments to the image data generator, and the accuracy score for the training set improved to 0.82. The accuracy score for the validation set was 0.72, and for the test set, it was 0.83, thus indicating that the model was not overfit.
 
 
